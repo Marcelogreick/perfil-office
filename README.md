@@ -1,5 +1,3 @@
-# gatsby-starter-resume
-
 Gatsby.js V2 modelo inicial baseado em currículo por startbootstrap
 
 Para uma visão geral da estrutura do projeto, consulte o [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
